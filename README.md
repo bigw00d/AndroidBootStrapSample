@@ -3,6 +3,11 @@ AndroidBootStrapSample
 
 BootStrapのサンプル用Androidアプリケーションです。
 
+## Overview
+
+<img width="80%" src="./AndroidBootstrapSampleScreen.png" />  
+
+
 ## Requirement
 
 * Android Studioはバージョン3.3.2を使用しています  
