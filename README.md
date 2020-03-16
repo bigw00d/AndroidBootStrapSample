@@ -1,11 +1,7 @@
-HomeGateway（屋内管理用Androidアプリ）
+AndroidBootStrapSample
 ====
 
-屋内の各種センサーなどの機器を管理するAndroidアプリケーションです。
-
-## Description
-* 標準版のアプリケーションです  
-* カスタム仕様のアプリケーションはブランチで管理します  
+BootStrapのサンプル用Androidアプリケーションです。
 
 ## Requirement
 
@@ -21,4 +17,4 @@ HomeGateway（屋内管理用Androidアプリ）
 
 ## Licence
 
-   Copyright (C) 2018-2019 保田技術工房, All rights reserved.
+   Copyright (C) 2020 Daiki Yasuda, All rights reserved.
