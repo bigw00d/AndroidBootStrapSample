@@ -5,7 +5,7 @@ BootStrapのサンプル用Androidアプリケーションです。
 
 ## Overview
 
-<img width="80%" src="./AndroidBootstrapSampleScreen.png" />  
+<img width="25%" src="./AndroidBootstrapSampleScreen.png" />  
 
 
 ## Requirement
